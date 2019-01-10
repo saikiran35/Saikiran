@@ -5,3 +5,5 @@ fun
 jack
 Mouse
 keyboard
+ETV
+Bagmane
